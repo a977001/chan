@@ -1,7 +1,4 @@
 fja;skl
 fdnsajknkdjsa
 fndsajknjkvdidsacvksdj
-vnsdjkvnsa
-vdnsajk
-
-
+찬일 테스트
